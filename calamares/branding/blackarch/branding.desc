@@ -157,11 +157,8 @@ strings:
 #
 # These filenames can also use substitutions from os-release (see above).
 images:
-    # productBanner:		"banner.png"
-    productLogo:			"squid.png"
+    productLogo:			"logo.png"
     productIcon:			"logo.png"
-    # productWallpaper:    "wallpaper.png"
-    productWelcome:			"lxdm.png"
 
 # Colors for text and background components.
 #
@@ -178,7 +175,7 @@ style:
    sidebarBackground:    "#353945"
    sidebarText:          "#ECEDEE"
    sidebarTextSelect:    "#FFFFFF"
-   sidebarTextHighlight: "#D35400"
+   sidebarTextHighlight: "#3499D8"
 
 ### SLIDESHOW
 #
