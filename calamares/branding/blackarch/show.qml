@@ -74,6 +74,111 @@ Presentation
 
     }
 
+    Slide {
+        anchors.fill: parent
+        anchors.verticalCenterOffset: 0
+        Image {
+            id: background5
+            source: "awesome.png"
+            width: parent.width; height: parent.height
+            horizontalAlignment: Image.AlignCenter
+            verticalAlignment: Image.AlignTop
+            fillMode: Image.Stretch
+            anchors.fill: parent
+        }
+
+    }
+
+    Slide {
+        anchors.fill: parent
+        anchors.verticalCenterOffset: 0
+        Image {
+            id: background5
+            source: "fluxbox.png"
+            width: parent.width; height: parent.height
+            horizontalAlignment: Image.AlignCenter
+            verticalAlignment: Image.AlignTop
+            fillMode: Image.Stretch
+            anchors.fill: parent
+        }
+
+    }
+
+    Slide {
+        anchors.fill: parent
+        anchors.verticalCenterOffset: 0
+        Image {
+            id: background6
+            source: "grub.png"
+            width: parent.width; height: parent.height
+            horizontalAlignment: Image.AlignCenter
+            verticalAlignment: Image.AlignTop
+            fillMode: Image.Stretch
+            anchors.fill: parent
+        }
+
+    }
+
+    Slide {
+        anchors.fill: parent
+        anchors.verticalCenterOffset: 0
+        Image {
+            id: background7
+            source: "i3.png"
+            width: parent.width; height: parent.height
+            horizontalAlignment: Image.AlignCenter
+            verticalAlignment: Image.AlignTop
+            fillMode: Image.Stretch
+            anchors.fill: parent
+        }
+
+    }
+
+    Slide {
+        anchors.fill: parent
+        anchors.verticalCenterOffset: 0
+        Image {
+            id: background8
+            source: "lxdm.png"
+            width: parent.width; height: parent.height
+            horizontalAlignment: Image.AlignCenter
+            verticalAlignment: Image.AlignTop
+            fillMode: Image.Stretch
+            anchors.fill: parent
+        }
+
+    }
+
+    Slide {
+        anchors.fill: parent
+        anchors.verticalCenterOffset: 0
+        Image {
+            id: background9
+            source: "openbox.png"
+            width: parent.width; height: parent.height
+            horizontalAlignment: Image.AlignCenter
+            verticalAlignment: Image.AlignTop
+            fillMode: Image.Stretch
+            anchors.fill: parent
+        }
+
+    }
+
+    Slide {
+        anchors.fill: parent
+        anchors.verticalCenterOffset: 0
+        Image {
+            id: background10
+            source: "spectrwm.png"
+            width: parent.width; height: parent.height
+            horizontalAlignment: Image.AlignCenter
+            verticalAlignment: Image.AlignTop
+            fillMode: Image.Stretch
+            anchors.fill: parent
+        }
+
+    }
+
     function onActivate() {
           console.log("QML Component (default slideshow) activated");
           presentation.currentSlide = 0;
