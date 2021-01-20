@@ -63,7 +63,7 @@ Presentation
         anchors.fill: parent
         anchors.verticalCenterOffset: 0
         Image {
-            id: background4
+            id: background3
             source: "/usr/share/backgrounds/hacktheplanet.png"
             width: parent.width; height: parent.height
             horizontalAlignment: Image.AlignCenter
@@ -78,7 +78,7 @@ Presentation
         anchors.fill: parent
         anchors.verticalCenterOffset: 0
         Image {
-            id: background5
+            id: background4
             source: "awesome.png"
             width: parent.width; height: parent.height
             horizontalAlignment: Image.AlignCenter
