@@ -16,4 +16,4 @@ You can get in touch with the BlackArch Linux team. Just check out the following
 
 **Mail:** team@blackarch.org
 
-**IRC:** [irc://irc.freenode.net/blackarch](irc://irc.freenode.net/blackarch)
+**Matrix:** [#BlackArch:matrix.org](https://matrix.to/#/#BlackArch:matrix.org)
