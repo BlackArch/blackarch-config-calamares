@@ -121,7 +121,7 @@ navigation: widget
 # are visible as buttons there if the corresponding *show* keys
 # are set to "true" (they can also be overridden).
 strings:
-    productName:         "@{NAME}"
+    productName:         BlackArch Linux
     shortProductName:    BlackArch Linux
     version:             3.0
     shortVersion:        3.0
