@@ -157,9 +157,9 @@ strings:
 #
 # These filenames can also use substitutions from os-release (see above).
 images:
-    productLogo:			 "logo.png"
-    productIcon:			 "logo.png"
-    productWelcome:			 "logo.png"
+    productLogo: "logo.png"
+    productIcon: "logo.png"
+    productWelcome: "logo.png"
 
 # Colors for text and background components.
 #
