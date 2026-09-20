@@ -35,8 +35,6 @@ Presentation
             id: background1
             source: "/usr/share/backgrounds/blackarch/blackarch.png"
             width: parent.width; height: parent.height
-            horizontalAlignment: Image.AlignCenter
-            verticalAlignment: Image.AlignTop
             fillMode: Image.Stretch
             anchors.fill: parent
         }
@@ -51,8 +49,6 @@ Presentation
             id: background2
             source: "/usr/share/backgrounds/blackarch/hoodie.png"
             width: parent.width; height: parent.height
-            horizontalAlignment: Image.AlignCenter
-            verticalAlignment: Image.AlignTop
             fillMode: Image.Stretch
             anchors.fill: parent
         }
@@ -66,8 +62,6 @@ Presentation
             id: background3
             source: "/usr/share/backgrounds/blackarch/hacktheplanet.png"
             width: parent.width; height: parent.height
-            horizontalAlignment: Image.AlignCenter
-            verticalAlignment: Image.AlignTop
             fillMode: Image.Stretch
             anchors.fill: parent
         }
@@ -81,8 +75,6 @@ Presentation
             id: background4
             source: "awesome.png"
             width: parent.width; height: parent.height
-            horizontalAlignment: Image.AlignCenter
-            verticalAlignment: Image.AlignTop
             fillMode: Image.Stretch
             anchors.fill: parent
         }
@@ -96,8 +88,6 @@ Presentation
             id: background5
             source: "fluxbox.png"
             width: parent.width; height: parent.height
-            horizontalAlignment: Image.AlignCenter
-            verticalAlignment: Image.AlignTop
             fillMode: Image.Stretch
             anchors.fill: parent
         }
@@ -111,8 +101,6 @@ Presentation
             id: background6
             source: "grub.png"
             width: parent.width; height: parent.height
-            horizontalAlignment: Image.AlignCenter
-            verticalAlignment: Image.AlignTop
             fillMode: Image.Stretch
             anchors.fill: parent
         }
@@ -126,8 +114,6 @@ Presentation
             id: background7
             source: "i3.png"
             width: parent.width; height: parent.height
-            horizontalAlignment: Image.AlignCenter
-            verticalAlignment: Image.AlignTop
             fillMode: Image.Stretch
             anchors.fill: parent
         }
@@ -141,8 +127,6 @@ Presentation
             id: background8
             source: "lxdm.png"
             width: parent.width; height: parent.height
-            horizontalAlignment: Image.AlignCenter
-            verticalAlignment: Image.AlignTop
             fillMode: Image.Stretch
             anchors.fill: parent
         }
@@ -156,8 +140,6 @@ Presentation
             id: background9
             source: "openbox.png"
             width: parent.width; height: parent.height
-            horizontalAlignment: Image.AlignCenter
-            verticalAlignment: Image.AlignTop
             fillMode: Image.Stretch
             anchors.fill: parent
         }
@@ -171,8 +153,6 @@ Presentation
             id: background10
             source: "spectrwm.png"
             width: parent.width; height: parent.height
-            horizontalAlignment: Image.AlignCenter
-            verticalAlignment: Image.AlignTop
             fillMode: Image.Stretch
             anchors.fill: parent
         }
