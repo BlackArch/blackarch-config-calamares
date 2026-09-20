@@ -33,7 +33,7 @@ Presentation
         anchors.verticalCenterOffset: 0
         Image {
             id: background1
-            source: "/usr/share/backgrounds/blackarch.png"
+            source: "/usr/share/backgrounds/blackarch/blackarch.png"
             width: parent.width; height: parent.height
             horizontalAlignment: Image.AlignCenter
             verticalAlignment: Image.AlignTop
@@ -49,7 +49,7 @@ Presentation
         anchors.verticalCenterOffset: 0
         Image {
             id: background2
-            source: "/usr/share/backgrounds/hoodie.png"
+            source: "/usr/share/backgrounds/blackarch/hoodie.png"
             width: parent.width; height: parent.height
             horizontalAlignment: Image.AlignCenter
             verticalAlignment: Image.AlignTop
@@ -64,7 +64,7 @@ Presentation
         anchors.verticalCenterOffset: 0
         Image {
             id: background3
-            source: "/usr/share/backgrounds/hacktheplanet.png"
+            source: "/usr/share/backgrounds/blackarch/hacktheplanet.png"
             width: parent.width; height: parent.height
             horizontalAlignment: Image.AlignCenter
             verticalAlignment: Image.AlignTop
